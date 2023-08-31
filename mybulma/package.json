@@ -1,0 +1,12 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Using Bayha Group, WorkWonder, and other custom colors in Bulma",
+  "main": "sass/mystyles.scss",
+  "author": "Enrique Llanes",
+  "license": "MIT",
+  "devDependencies": {
+    "bulma": "^0.9.4",
+    "node-sass": "^9.0.0"
+  }
+}
